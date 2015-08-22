@@ -1,0 +1,25 @@
+{
+  "name": "typeform-slack-integration",
+  "version": "1.0.0",
+  "description": "Typeform Integration for Slack which allows for viewing of registrant count and notification of new entries. Uses slash commands and incoming web hooks.",
+  "main": "notifier.js",
+  "dependencies": {
+    "request": "^2.61.0",
+    "url": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "notifications": "node notifier.js"
+    "slashcommand-server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheniel/typeform-slack-integration.git"
+  },
+  "author": "cheniel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cheniel/typeform-slack-integration/issues"
+  },
+  "homepage": "https://github.com/cheniel/typeform-slack-integration#readme"
+}
