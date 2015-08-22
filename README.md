@@ -1,10 +1,14 @@
 # typeform-slack-integration
 Typeform Integration for Slack which allows for viewing of registrant count and notification of new entries.
 
-## Notifications
+**Notifications**
+![notification-example](http://cheniel.github.io/typeform-slack-integration/img/notification.png)
 
-## Slash Commands
+**Slash Command**
+![notification-example](http://cheniel.github.io/typeform-slack-integration/img/registrants.png)
 
+**Slash Command (quiet)**
+![notification-example](http://cheniel.github.io/typeform-slack-integration/img/registrants-quiet.png)
 
 ## Setup
 
